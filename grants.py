@@ -2,7 +2,7 @@
 
 import argparse
 '''
-this script create the grant statment for mysql databases
+this script create the grant statment for mysql databases to provide privileges
 '''
 
 
